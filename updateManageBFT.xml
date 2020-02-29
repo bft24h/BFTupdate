@@ -9,6 +9,15 @@
         1. Thử Nghiệm Update.</description> 
         <launchArgs></launchArgs> 
     </update>
+<update> 
+        <version>3.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <filePath>Cmm/TestApp.exe</filePath>
+        <md5>b296c5f34189e98d2b37ab653461e855</md5>
+        <description>Update: 29/02/2020:
+        1. Thử Nghiệm Update.</description> 
+        <launchArgs></launchArgs> 
+    </update>
     <remove>
         <filePath>Ok/file.txt</filePath>
         <description>Remove: 10/06/2018:
