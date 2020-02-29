@@ -3,7 +3,7 @@
     <update> 
         <version>3.0.0.0</version> 
         <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
-        <filePath>./TestApp.exe</filePath>
+        <filePath>/TestApp.exe</filePath>
         <md5>b296c5f34189e98d2b37ab653461e82a</md5>
         <description>Update: 29/02/2020:
         1. Thử Nghiệm Update.</description> 
